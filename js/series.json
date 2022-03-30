@@ -1,0 +1,227 @@
+[
+    {
+       "serie":"Black Mirror",
+       "imagen":"img/netflix/blackmirror.jpg",
+       "puntuacion":8.8,
+       "categoria":"Netflix",
+       "resumen":"Explora un multiverso retorcido y tecnológico donde chocan las mayores innovaciones de la humanidad con los instintos más oscuros."
+    },
+    {
+       "serie":"Dark",
+       "imagen":"img/netflix/dark.jpg",
+       "puntuacion":8.8,
+       "categoria":"Netflix",
+       "resumen": "La desaparición de un niño lleva a cuatro familias a una frenética búsqueda, mientras descubren un misterio que abarca tres generaciones"
+    },
+    {
+       "serie":"Peaky Blinder",
+       "imagen":"img/netflix/peaky.jpg",
+       "puntuacion":8.8,
+       "categoria":"Netflix",
+       "resumen": "Una familia de gánsters asentada en Birmingham tras la Primera Guerra Mundial, dirige un local de apuestas hípicas."
+    },
+    {
+       "serie":"Raven",
+       "imagen":"img/disney/raven.jpg",
+       "puntuacion":6.7,
+       "categoria":"Disney",
+       "resumen":"Una adolescente recibe breves visiones psíquicas del futuro cercano. Intentar que estas visiones se conviertan en realidad resulta en problemas."
+    },
+    {
+       "serie":"The Office",
+       "imagen":"img/amazon/office.jpg",
+       "puntuacion":8.9,
+       "categoria":"Amazon",
+       "resumen": "Falso documental sobre un grupo de trabajadores de oficina, donde la jornada laboral consiste en choques de ego y comportamiento inapropiado."
+    },
+    {
+       "serie":"Bojack Horseman",
+       "imagen":"img/netflix/bojack.jpg",
+       "puntuacion":8.7,
+       "categoria":"Netflix",
+       "resumen": "BoJack Horseman fue la estrella del exitoso programa de televisión 'Horsin' Around' en los años 90. Ahora está acabado, y viviendo en Hollywood."
+    },
+    {
+       "serie":"Friends",
+       "imagen":"img/amazon/friends.jpg",
+       "puntuacion":8.8,
+       "categoria":"Amazon",
+       "resumen": "La vida personal y profesional de seis amigos, de veinte a treinta y tantos años, que viven en Manhattan."
+    },
+    {
+       "serie":"Seinfeld",
+       "imagen":"img/amazon/seinfeld.jpg",
+       "puntuacion":8.8 ,
+       "categoria":"Amazon",
+       "resumen":"Las continuas desventuras del neurótico cómico neoyorquino Jerry Seinfeld y sus igualmente neuróticos amigos."
+    },
+    {
+       "serie":"This is Us",
+       "imagen":"img/amazon/us.jpg",
+       "puntuacion":8.6 ,
+       "categoria":"Amazon",
+       "resumen":"La conmovedora y emotiva historia de unos trillizos singulares, sus dificultades y sus maravillosos padres."
+    },
+    {
+       "serie":"Hannah Montana",
+       "imagen":"img/disney/hannah.jpg",
+       "puntuacion":5.2,
+       "categoria":"Disney",
+       "resumen":"Las aventuras de una estrella del pop adolescente, que mantiene su identidad en secreto incluso a sus amigos más cercanos utilizando un disfraz."
+    },
+    {
+       "serie":"Ratched",
+       "imagen":"img/netflix/ratched.jpg",
+       "puntuacion":7.3,
+       "categoria":"Netflix",
+       "resumen":"Una joven enfermera en una institución mental se vuelve cada vez más horrible con sus pacientes."
+    },
+    {
+       "serie":"Westworld",
+       "imagen":"img/hbo/westworld.jpg",
+       "puntuacion":8.6 ,
+       "categoria":"HBO",
+       "resumen":"Ubicado en la intersección de un futuro cercano y un pasado ficticio, explora un mundo en el que todo apetito humano puede satisfacerse sin consecuencias."
+    },
+    {
+       "serie":"Lizzie McGuire",
+       "imagen":"img/disney/lizzie.jpg",
+       "puntuacion":6.7,
+       "categoria":"Disney",
+       "resumen":"Las aventuras diarias de una adolescente cuyos pensamientos y emociones reales son expresados por su sarcástico álter ego animado."
+    },
+    {
+       "serie":"Stranger Things",
+       "imagen":"img/netflix/stranger.jpg",
+       "puntuacion":8.7,
+       "categoria":"Netflix",
+       "resumen":"Cuando un chico desaparece, su madre, el jefe de policía y sus amigos deben enfrentarse a fuerzas terroríficas para traerlo de vuelta."
+    },
+    {
+       "serie":"True Detective",
+       "imagen":"img/hbo/detective.jpg",
+       "puntuacion":8.9 ,
+       "categoria":"HBO",
+       "resumen":"Serie antológica estacional en la que las investigaciones policiales desentierran los secretos personales y profesionales de aquellos involucrados."
+    },
+    {
+       "serie":"The Queen's Gambit",
+       "imagen":"img/netflix/queen.jpg",
+       "puntuacion":8.6,
+       "categoria":"Netflix",
+       "resumen":"Una huérfana llamada Beth Harmon con un don para el ajedrez lucha contra las adicciones mientras intenta ser la mejor jugadora del mundo."
+    },
+    {
+       "serie":"Fleabag",
+       "imagen":"img/amazon/fleabag.jpg",
+       "puntuacion":8.7,
+       "categoria":"Amazon",
+       "resumen":"Una serie cómica, adaptación de la premiada obra del mismo nombre, sobre una joven adaptándose a la vida en Londres tras una tragedia reciente."
+    },
+    {
+       "serie":"The Mandalorian",
+       "imagen":"img/disney/mandalorian.jpg",
+       "puntuacion":8.8 ,
+       "categoria":"Disney",
+       "resumen":"Los viajes de un cazarrecompensas solitario en los confines de la galaxia, lejos de la autoridad de la Nueva República."
+    },
+    {
+       "serie":"Wandavision",
+       "imagen":"img/disney/wandavision.png",
+       "puntuacion": 8.0,
+       "categoria":"Disney",
+       "resumen":"La Bruja Escarlata y Vision, dos seres superpoderosos con una vida familiar ideal, sospechan que no todo es como aparenta."
+    },
+    {
+       "serie":"House of Cards",
+       "imagen":"img/netflix/house.jpg",
+       "puntuacion":8.7,
+       "categoria":"Netflix",
+       "resumen":"Un congresista y su esposa conspiran para vengarse de las personas que lo traicionaron."
+    },
+    {
+       "serie":"The Good Doctor",
+       "imagen":"img/amazon/doctor.jpg",
+       "puntuacion":8.2,
+       "categoria":"Amazon",
+       "resumen":"Shaun Murphy, un joven cirujano con autismo y síndrome de Savant, es empleado por la unidad quirúrgica de un prestigioso hospital." 
+    },
+    {
+       "serie":"Falcon and the Winter Soldier",
+       "imagen":"img/disney/falcon.jpg",
+       "puntuacion": 7.3,
+       "categoria":"Disney",
+       "resumen":"Falcon y Bucky Barnes/Soldado de Invierno se unen en una aventura global que pone a prueba sus habilidades."
+    },
+    {
+       "serie":"Loki",
+       "imagen":"img/disney/loki.jpg",
+       "puntuacion":8.3 ,
+       "categoria":"Disney",
+       "resumen":"El villano Loki retoma su papel de Dios del Engaño tras los acontecimientos de 'Vengadores: Endgame'."
+    },
+    {
+       "serie":"Game of Thrones",
+       "imagen":"img/hbo/soprano.jpg",
+       "puntuacion":9.3 ,
+       "categoria":"HBO",
+       "resumen":"Nueve familias nobles luchan por el control de las tierras de Poniente, mientras que un antiguo enemigo regresa después de estar inactivo durante milenios."
+    },
+    {
+       "serie":"Mr Robot",
+       "imagen":"img/amazon/robot.jpg",
+       "puntuacion":8.6,
+       "categoria":"Amazon",
+       "resumen":"Elliot, ingeniero de seguridad cibernética y pirata informático, se convierte en la figura clave en un complejo juego de dominio global." 
+    },
+    {
+       "serie":"American Gods",
+       "imagen":"img/amazon/american.jpg",
+       "puntuacion":7.7,
+       "categoria":"Amazon",
+       "resumen":"Shadow, conoce a un misterioso hombre que se hace llamar Wednesday, que sabe más sobre la vida y pasado de Shadow de lo que parece a primera vista." 
+    },
+    {
+       "serie":"Sex and the City",
+       "imagen":"img/hbo/city.jpg",
+       "puntuacion":7.2,
+       "categoria":"HBO",
+       "resumen":"Cuatro neoyorkinas cotillean sobre sus vidas sexuales (o falta de estas) y encuentran nuevas formas de enfrentarse a ser mujer en los 90."
+    },
+    {
+       "serie":"Chernobyl",
+       "imagen":"img/hbo/chernobyl.jpg",
+       "puntuacion":9.4 ,
+       "categoria":"HBO",
+       "resumen":"En Abril de 1986, una explosión en la central nuclear de Chernobyl, en la Unión Soviética, se convirtió en una de las mayores catástrofes."
+    },
+    {
+       "serie":"Euphoria",
+       "imagen":"img/hbo/euphoria.jpg",
+       "puntuacion":8.4,
+       "categoria":"HBO",
+       "resumen":"Una mirada a la vida a través de los ojos de un grupo de adolescentes mientras se enfrentan a asuntos de drogas, sexo y violencia."
+    },
+    {
+       "serie":"Big Little Lies",
+       "imagen":"img/hbo/lies.jpg",
+       "puntuacion":8.5,
+       "categoria":"HBO",
+       "resumen":"Las vidas aparentemente perfectas de tres madres de alumnos de primaria se ven envueltas en un asesinato."
+    },
+    {
+       "serie":"Just Beyond",
+       "imagen":"img/disney/beyond.jpg",
+       "puntuacion":6.2,
+       "categoria":"Disney",
+       "resumen":"Serie antológica, inspirada en las obras de R. L. Stine, con historias increíbles sobre una realidad que está más allá de lo conocido."
+    },
+    {
+       "serie":"Sucession",
+       "imagen":"img/hbo/sucession.jpg",
+       "puntuacion":8.8 ,
+       "categoria":"HBO",
+       "resumen":"Sigue a una familia estadounidense disfuncional en el negocio de la prensa global."
+    }
+   
+ ]
