@@ -4,14 +4,14 @@ import { asignarBotonVerTodos } from "./botones.js";
 import { botonesCategorias } from "./domElements.js";
 
 // BUSQUEDA POR NOMBRE DE SERIE
-export function buscar(event, serie) {
+export function buscar(event, productos) {
     event.preventDefault();
     listadoSeries.scrollIntoView();
     let busqueda = seriesFiltrado.children[0].value;
-    const result = serie.filter(
+    const result = productos.filter(
         producto =>
         producto.categoria.toLowerCase().includes(busqueda.toLowerCase()) ||
-        producto.titulo.toLowerCase().includes(busqueda.toLowerCase())
+        producto.serie.toLowerCase().includes(busqueda.toLowerCase())
     );
     imprimirSeries(listadoSeries, result);
     if(result.length === 0 || busqueda === "" || busqueda === " ") {
@@ -34,22 +34,21 @@ export function buscar(event, serie) {
     }
 
     //ELIMINAR INFORMACION DEL SEARCH
-    asignarBotonVerTodos(serie);
+    asignarBotonVerTodos(productos);
     seriesFiltrado.children[0].value = "";
 }
 
 // FILTROS AL SELECCIONAR PLATAFORMAS
-export function categoriaClick(event, serie) {
+export function categoriaClick(event, productos) {
     listadoSeries.scrollIntoView();
     botonesCategorias.forEach((botonCategoria) => {
         botonCategoria.children[0].classList.remove("active");
     });
     event.target.classList.add("active");
     
-    const result = serie.filter(producto => producto.categoria === event.target.textContent);
+    const result = productos.filter(producto => producto.categoria === event.target.textContent);
     imprimirSeries(listadoSeries, result);
     
-
     // SI NO CONTIENE SERIES
     if(result.length === 0) {
         let noHayCoincidencias = document.createElement("div");
@@ -68,5 +67,5 @@ export function categoriaClick(event, serie) {
         listadoSeries.prepend(nombreCategoria);
     }
 
-    asignarBotonVerTodos(serie);
+    asignarBotonVerTodos(productos);
 }
